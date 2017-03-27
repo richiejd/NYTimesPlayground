@@ -1,0 +1,11 @@
+# Private
+NYTimesPlayground/NYTimesPlayground/Application/PrivateKeys.swift
+
+# Xcode
+.DS_Store
+xcuserdata
+
+# CocoaPods
+*.xcworkspace
+Pods
+
